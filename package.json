@@ -1,0 +1,24 @@
+{
+  "name": "pruebasunitarias",
+  "version": "1.0.0",
+  "description": "@author: Abraham Martínez Cerón",
+  "main": "operaciones-aritmeticas.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbrahamRafa15/PruebasUnitarias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AbrahamRafa15/PruebasUnitarias/issues"
+  },
+  "homepage": "https://github.com/AbrahamRafa15/PruebasUnitarias#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
